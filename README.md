@@ -1,2 +1,2 @@
 # DataScience
-Python notebooks for data science and ML 
+Python code for data science and ML 
