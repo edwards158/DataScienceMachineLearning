@@ -1,8 +1,8 @@
 # Machine Learning (Shallow) and Data Science
 
-This repository contains my work in the field of Deep Learning.  Some of the notebooks relate to the  [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program, which consists of a bunch of tutorial notebooks for various deep learning topics.  These notebooks are mostly implemented in Tensorflow.
+This repository contains some of my work in the field of Shallow Machine Learning.
 
-The other material is notebooks of experiments, hacks and code ideas from various sources.  These mostly consist of notebooks implemented in Keras with Tensorflow backend.  For these notebooks I have used the following sources as my guide:
+The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  These conists of notebooks using python with pandas, numpy and scikit learn.  For most of these notebooks I have used the following sources as my guide:
 
 - [Sebastian Raschka](https://sebastianraschka.com/books.html)
 - [Jason Brownlee](https://machinelearningmastery.com)
