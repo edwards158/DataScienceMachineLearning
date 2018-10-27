@@ -15,7 +15,6 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 ## Table Of Contents
 
 ### Notebooks
-
 * [Affinity Analysis](https://github.com/riched158/Machine-Learning-Shallow/blob/master/AffinityAnalysis.ipynb): Utilise Affinity analysis on the MovieLens 100k dataset
 * [Advanced Regression Techniques](https://github.com/riched158/Machine-Learning-Shallow/blob/master/Ames_Housing1.ipynb): EDA and Regression techniques to predict houseprices
 * [Decision Trees](https://github.com/riched158/Machine-Learning-Shallow/blob/master/DTs_and_Feature_Engineeering.ipynb): Predicting NBA winners with Decision Tree based methods
