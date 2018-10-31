@@ -32,3 +32,4 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 
 * [Bagging](https://github.com/riched158/Machine-Learning-Shallow/blob/master/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
 * [SKLearn model comparison](https://github.com/riched158/Machine-Learning-Shallow/blob/master/Binary%20Classification.ipynb): Trying different models on a binary classification problem
+* [EDA on Titanic Dataset](https://github.com/riched158/Kaggle/blob/master/P1/Titanic4.ipynb): Exploratory Data Analysis on the Titanic Kaggle Dataset
