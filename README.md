@@ -28,3 +28,8 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Transforming Features](https://github.com/riched158/Machine-Learning-Shallow/blob/master/FeaturesAndTransformers.ipynb): Transforming data with SciKit learn
 * [Internet Advertisement Detection](https://github.com/riched158/Machine-Learning-Shallow/blob/master/FeaturesAndTransformers2.ipynb): Predicting adverts on on internet using Decision Trees
 * [Titanic Prediction](https://github.com/riched158/Machine-Learning-Shallow/blob/master/TitanicPipelines.ipynb): Using Transforms and Ensemble methods to predict Titanic survival
+* [XGBoost](https://github.com/riched158/Machine-Learning-Shallow/blob/master/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
+
+
+
+
