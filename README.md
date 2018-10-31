@@ -31,4 +31,4 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [XGBoost](https://github.com/riched158/Machine-Learning-Shallow/blob/master/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
 
 * [Bagging](https://github.com/riched158/Machine-Learning-Shallow/blob/master/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
-
+* [SKLearn model comparison](https://github.com/riched158/Machine-Learning-Shallow/blob/master/Binary%20Classification.ipynb): Trying different models on a binary classification problem
