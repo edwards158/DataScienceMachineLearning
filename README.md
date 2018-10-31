@@ -10,10 +10,6 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 - [Ritchie Ng](https://www.ritchieng.com/)
 - [Kevin Markham](https://www.youtube.com/user/dataschool)
 
-I run these notebooks on a Windows machine with GeForce 1060 6Gb.   
-
-## Table Of Contents
-
 ### Notebooks
 
 * [Affinity Analysis](https://github.com/riched158/Machine-Learning-Shallow/blob/master/AffinityAnalysis.ipynb): Utilise Affinity analysis on the MovieLens 100k dataset.
