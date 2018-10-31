@@ -27,5 +27,4 @@ I run these notebooks on a Windows machine with GeForce 1060 6Gb.
 * [Decision Trees](https://github.com/riched158/Machine-Learning-Shallow/blob/master/DTs_and_Feature_Engineeering.ipynb): Predicting NBA winners with Decision Tree based methods
 * [Transforming Features](https://github.com/riched158/Machine-Learning-Shallow/blob/master/FeaturesAndTransformers.ipynb): Transforming data with SciKit learn
 * [Internet Advertisement Detection](https://github.com/riched158/Machine-Learning-Shallow/blob/master/FeaturesAndTransformers2.ipynb): Predicting adverts on on internet using Decision Trees
-
-
+* [Titanic Prediction](https://github.com/riched158/Machine-Learning-Shallow/blob/master/TitanicPipelines.ipynb): Using Transforms and Ensemble methods to predict Titanic survival
