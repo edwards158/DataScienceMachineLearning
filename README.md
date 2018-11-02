@@ -1,15 +1,15 @@
 # Machine Learning and Data Science
 
-This repository contains some of my work in the field of Shallow Machine Learning.
+This repository contains some of my work in the fields of Machine Learning and Data Science.
 
-The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  These conists of notebooks using python with pandas, numpy and scikit learn.  For most of these notebooks I have used the following sources as my guide:
+The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  The work was done in python utilising numpy, pandas and scikit-learn.  For most of these notebooks I have used the following sources as my starting point:
 
-- [Sebastian Raschka](https://sebastianraschka.com/books.html)
-- [Jason Brownlee](https://machinelearningmastery.com)
-- [Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/)
-- [Ritchie Ng](https://www.ritchieng.com/)
-- [Kevin Markham](https://www.youtube.com/user/dataschool)
-- [Udacity](https://eu.udacity.com/)
+- [Sebastian Raschka](https://sebastianraschka.com/books.html) [Jason Brownlee](https://machinelearningmastery.com)
+[Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/)
+[Ritchie Ng](https://www.ritchieng.com/)
+[Kevin Markham](https://www.youtube.com/user/dataschool)
+[Udacity](https://eu.udacity.com/)
+[Coursera](https://www.coursera.org)
 
 ## Notebooks
 * [Donor Screening on kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
