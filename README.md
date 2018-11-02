@@ -24,5 +24,10 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [XGBoost](https://github.com/riched158/Machine-Learning-Shallow/blob/master/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
 * [Bagging](https://github.com/riched158/Machine-Learning-Shallow/blob/master/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
 * [SKLearn model comparison](https://github.com/riched158/Machine-Learning-Shallow/blob/master/Binary%20Classification.ipynb): Trying different models on a binary classification problem
+* [Gradient Descent](https://github.com/riched158/ML-Regression/blob/master/week-2-multiple-regression-assign-2.ipynb): University of Washington Coursera assignment on Gradient Descent.
+* [Polynomial Regression](https://github.com/riched158/ML-Regression/blob/master/week-3-polynomial-regression-assign.ipynb): University of Washington Coursera assignment on Polynomial Regression.
+* [Ridge and Lasso Regression](https://github.com/riched158/ML-Regression/blob/master/Overfitting_Ridge_Lasso.ipynb): University of Washington Coursera assignment on Ridge and Lasso Regression.
+* [Lasso Regularisation](https://github.com/riched158/ML-Regression/blob/master/week-5-lasso-assign-2.ipynb): University of Washington Coursera assignment on Lasso.
+
 
 
