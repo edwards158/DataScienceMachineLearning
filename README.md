@@ -15,7 +15,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 
 ## Notebooks
 
-* [Pandas Dataframe Optimisation](https://github.com/riched158/Kaggle/blob/master/P1/DataFrameOptimisation.ipynb): Kaggle submitted notebook, on how reduce size of pandas dataframe can speed up training times for random forest.
+* [Pandas Dataframe Optimisation](https://github.com/riched158/Kaggle/blob/master/P1/DataFrameOptimisation.ipynb): Hoe Pandas dataframe optimisation can speed up training times for random forest.
 * [Donor Screening on Kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
 * [Advanced Regression Techniques](https://github.com/riched158/Kaggle/blob/master/P1/Ames_Housing1.ipynb): Exploratory Data Analysis and Regression techniques to predict houseprices.
 * [SKLearn Model Comparison](https://github.com/riched158/MachineLearning/blob/master/Binary%20Classification.ipynb): Trying different models on a binary classification problem
