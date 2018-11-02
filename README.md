@@ -16,7 +16,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 ## Notebooks
 * [Donor Screening on Kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
 * [Advanced Regression Techniques](https://github.com/riched158/Kaggle/blob/master/P1/Ames_Housing1.ipynb): Exploratory Data Analysis and Regression techniques to predict houseprices.
-* [SKLearn Model Comparison](https://github.com/riched158/Machine-Learning-Shallow/blob/master/Binary%20Classification.ipynb): Trying different models on a binary classification problem
+* [SKLearn Model Comparison](https://github.com/riched158/MachineLearning/blob/master/Binary%20Classification.ipynb): Trying different models on a binary classification problem
 * [Transforming Features](https://github.com/riched158/Machine-Learning-Shallow/blob/master/FeaturesAndTransformers.ipynb): Transforming data with SciKit Learn.
 * [Titanic Prediction](https://github.com/riched158/Machine-Learning-Shallow/blob/master/TitanicPipelines.ipynb): Using Transforms and Ensemble methods to predict Titanic survival
 * [EDA on Titanic Dataset](https://github.com/riched158/Kaggle/blob/master/P1/Titanic4.ipynb): Exploratory Data Analysis on the Titanic Kaggle Dataset
