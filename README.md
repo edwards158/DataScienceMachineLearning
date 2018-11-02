@@ -4,12 +4,13 @@ This repository contains some of my work in the fields of Machine Learning and D
 
 The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  The work was done in python utilising numpy, pandas and scikit-learn.  For most of these notebooks I have used the following sources as my starting point:
 
-[Udacity](https://eu.udacity.com/)
-[Coursera](https://www.coursera.org)
-[Kaggle](https://www.kaggle.com)
-[Sebastian Raschka](https://sebastianraschka.com/books.html) [Jason Brownlee](https://machinelearningmastery.com)
-[Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/)
-[Kevin Markham](https://www.youtube.com/user/dataschool)
+[Udacity](https://eu.udacity.com/) &nbsp; 
+[Coursera](https://www.coursera.org) &nbsp; 
+[Kaggle](https://www.kaggle.com) &nbsp; 
+[Sebastian Raschka](https://sebastianraschka.com/books.html) &nbsp; 
+[Jason Brownlee](https://machinelearningmastery.com) &nbsp; 
+[Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/) &nbsp; 
+[Kevin Markham](https://www.youtube.com/user/dataschool) &nbsp; 
 
 
 ## Notebooks
