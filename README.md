@@ -30,6 +30,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [Polynomial Regression](https://github.com/riched158/ML-Regression/blob/master/week-3-polynomial-regression-assign.ipynb): University of Washington Coursera assignment on Polynomial Regression.
 * [Ridge and Lasso Regression](https://github.com/riched158/ML-Regression/blob/master/Overfitting_Ridge_Lasso.ipynb): University of Washington Coursera assignment on Ridge and Lasso Regression.
 * [Lasso Regularisation](https://github.com/riched158/ML-Regression/blob/master/week-5-lasso-assign-2.ipynb): University of Washington Coursera assignment on Lasso.
+[Regression Models](https://github.com/riched158/MachineLearning/blob/master/RegressionModels.ipynb): Evaluating various machine learning algorithms on a dataset
 
 
 
