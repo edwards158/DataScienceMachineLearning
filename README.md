@@ -13,7 +13,8 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 [Kevin Markham](https://www.youtube.com/user/dataschool) &nbsp; 
 
 
-## Notebooks
+## My Notebooks
+
 * [Enron Fraud Investigation](https://github.com/riched158/Udacity-Data/tree/master/P5): Investigate fraud with ML techniques
 * [Reduced Ensemble Training Time](https://github.com/riched158/Kaggle/blob/master/P1/ReducedEnsembleTrainingTime.ipynb): How Pandas dataframe optimisation can speed up training times for random forest.
 * [Donor Screening on Kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
@@ -29,6 +30,11 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [KNN](https://github.com/riched158/MachineLearning/blob/master/KNN.ipynb): K-Nearest Neighbours investigation of dataset with SciKit Learn 
 * [XGBoost](https://github.com/riched158/MachineLearning/blob/master/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
 * [Bagging](https://github.com/riched158/MachineLearning/blob/master/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
+
+## Notebook Assignments
+
+Various Completed Notebook Assignments from on-line courses
+
 * [Gradient Descent](https://github.com/riched158/ML-Regression/blob/master/week-2-multiple-regression-assign-2.ipynb): University of Washington Coursera assignment on Gradient Descent.
 * [Polynomial Regression](https://github.com/riched158/ML-Regression/blob/master/week-3-polynomial-regression-assign.ipynb): University of Washington Coursera assignment on Polynomial Regression.
 * [Ridge and Lasso Regression](https://github.com/riched158/ML-Regression/blob/master/Overfitting_Ridge_Lasso.ipynb): University of Washington Coursera assignment on Ridge and Lasso Regression.
