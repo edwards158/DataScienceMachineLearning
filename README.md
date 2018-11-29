@@ -43,6 +43,6 @@ Various Completed Notebook Assignments from on-line courses
 * [Ridge and Lasso Regression](https://github.com/riched158/ML-Regression/blob/master/Overfitting_Ridge_Lasso.ipynb): Assignment on Ridge and Lasso Regression.
 * [Lasso Regularisation](https://github.com/riched158/ML-Regression/blob/master/week-5-lasso-assign-2.ipynb): Assignment on Lasso.
 
-
-
+### Datacamp 
+* [Exploring history of Lego](https://github.com/riched158/DataCamp/blob/master/Lego.ipynb): Guided project notebook of lego dataset
 
