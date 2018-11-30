@@ -45,4 +45,5 @@ Various Completed Notebook Assignments from on-line courses
 
 ### Datacamp 
 * [Exploring history of Lego](https://github.com/riched158/DataCamp/blob/master/Lego.ipynb): Guided project notebook of lego dataset
+* [Dr Semmelweis](https://github.com/riched158/DataCamp/blob/master/semmelweis.ipynb): Pandas Investigation of famous doctor
 
