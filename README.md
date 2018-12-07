@@ -31,7 +31,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [KNN](https://github.com/riched158/MachineLearning/blob/master/KNN.ipynb): K-Nearest Neighbours investigation of dataset with SciKit Learn 
 * [XGBoost](https://github.com/riched158/MachineLearning/blob/master/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
 * [Bagging](https://github.com/riched158/MachineLearning/blob/master/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
-* [EDA on Kaggle Dataset](https://github.com/riched158/MachineLearning/blob/master/Bagging%20Regressor.ipynb): Playing around with seaborn and pandas on kaggle ELO dataset 
+* [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on kaggle ELO dataset 
 
 
 ## Notebook Assignments
