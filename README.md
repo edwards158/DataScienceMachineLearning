@@ -15,7 +15,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 
 ## My Notebooks
 
-* [Regression Models](https://github.com/riched158/MachineLearning/blob/master/RegressionModels.ipynb): Evaluating various machine learning algorithms on a dataset
+* [Regression Models](https://github.com/riched158/DataScienceMachineLearning/blob/master/RegressionModels.ipynb): Evaluating various machine learning algorithms on a dataset
 * [Enron Fraud Investigation](https://github.com/riched158/Udacity-Data/tree/master/P5): Investigate fraud with ML techniques
 * [Reduced Ensemble Training Time](https://github.com/riched158/Kaggle/blob/master/P1/ReducedEnsembleTrainingTime.ipynb): How Pandas dataframe optimisation can speed up training times for random forest.
 * [Donor Screening on Kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
