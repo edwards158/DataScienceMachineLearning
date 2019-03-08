@@ -19,24 +19,24 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [Enron Fraud Investigation](https://nbviewer.jupyter.org/github/riched158/Data-Analyst-Udacity-Nanodegree/blob/master/P5/poi_id.html): Investigate fraud with ML techniques
 * [Reduced Ensemble Training Time](https://github.com/riched158/Kaggle/blob/master/P1/ReducedEnsembleTrainingTime.ipynb): How Pandas dataframe optimisation can speed up training times for random forest.
 * [Donor Screening on Kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
-* [Advanced Regression Techniques](https://github.com/riched158/Kaggle/blob/master/P1/Ames_Housing1.ipynb): Exploratory Data Analysis and Regression techniques to predict houseprices.
-* [SKLearn Model Comparison](https://github.com/riched158/DataScienceMachineLearning/blob/master/Binary%20Classification.ipynb): Trying different models on a binary classification problem
+* [Advanced Regression Techniques](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Ames_Housing1.ipynb): Exploratory Data Analysis and Regression techniques to predict houseprices.
+* [SKLearn Model Comparison](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Binary%20Classification.ipynb): Trying different models on a binary classification problem
 * [Transforming Features](https://github.com/riched158/Machine-Learning-Shallow/blob/master/FeaturesAndTransformers.ipynb): Transforming data with SciKit Learn.
-* [Titanic Prediction](https://github.com/riched158/DataScienceMachineLearning/blob/master/TitanicPipelines.ipynb): Using Transforms and Ensemble methods to predict Titanic survival
+* [Titanic Prediction](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/TitanicPipelines.ipynb): Using Transforms and Ensemble methods to predict Titanic survival
 * [EDA on Titanic Dataset](https://github.com/riched158/Kaggle/blob/master/P1/Titanic4.ipynb): Exploratory Data Analysis on the Titanic Kaggle Dataset
 * [EDA and XGB Boost](https://github.com/riched158/Kaggle/blob/master/P1/PortSeguro.ipynb): Exploratory Data Analysis and Gradient Boosting on Kaggle Dataset entry
-* [Affinity Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/AffinityAnalysis.ipynb): Utilise Affinity analysis on the MovieLens 100k dataset.
-* [Decision Trees](https://github.com/riched158/DataScienceMachineLearning/blob/master/DTs_and_Feature_Engineeering.ipynb): Predicting NBA winners with Decision Tree based methods.
-* [Internet Advertisement Detection](https://github.com/riched158/DataScienceMachineLearning/blob/master/FeaturesAndTransformers2.ipynb): Predicting adverts on on internet using Decision Trees
-* [KNN](https://github.com/riched158/DataScienceMachineLearning/blob/master/KNN.ipynb): K-Nearest Neighbours investigation of dataset with SciKit Learn 
-* [XGBoost](https://github.com/riched158/DataScienceMachineLearning/blob/master/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
-* [Bagging](https://github.com/riched158/DataScienceMachineLearning/blob/master/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
+* [Affinity Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/AffinityAnalysis.ipynb): Utilise Affinity analysis on the MovieLens 100k dataset.
+* [Decision Trees](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/DTs_and_Feature_Engineeering.ipynb): Predicting NBA winners with Decision Tree based methods.
+* [Internet Advertisement Detection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeaturesAndTransformers2.ipynb): Predicting adverts on on internet using Decision Trees
+* [KNN](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/KNN.ipynb): K-Nearest Neighbours investigation of dataset with SciKit Learn 
+* [XGBoost](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
+* [Bagging](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
 * [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on kaggle ELO dataset 
 * [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture Engineering and prediction on kaggle ELO dataset 
 * [Explaining Decision Trees](https://github.com/riched158/Kaggle/blob/master/P1/Decision_Trees_Tutorial.ipynb): My explanation of Decision Trees 
-* [Correlation Feature Selection](https://github.com/riched158/DataScienceMachineLearning/blob/master/Correlation_Based_Feature_Selection.ipynb): Feature selection, pieplines and custom transformers applied to credit card default dataset 
-* [Feature Engineering part1](https://github.com/riched158/DataScienceMachineLearning/blob/master/FeatureEngineeringCleaning.ipynb): Feature Engineering a datset - cleaning and transforming
-* [Feature Transformation with PCA](https://github.com/riched158/DataScienceMachineLearning/blob/master/FeatureTransformation.ipynb): Investigating and applying PCA to ML pipeline
+* [Correlation Feature Selection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Correlation_Based_Feature_Selection.ipynb): Feature selection, pieplines and custom transformers applied to credit card default dataset 
+* [Feature Engineering part1](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeatureEngineeringCleaning.ipynb): Feature Engineering a datset - cleaning and transforming
+* [Feature Transformation with PCA](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeatureTransformation.ipynb): Investigating and applying PCA to ML pipeline
 
 ## Notebook Assignments
 
