@@ -40,6 +40,10 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [Facial Recognition](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Facial%20Recognition.ipynb): Using ML pipelines with PCA, LDA and Logistic Regression
 * [Latent Semantic Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Hotel%20Reviews.ipynb): Applying Latent Semantic Analysis to hotel reviews 
 
+* [Data Visualisation Part1](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingDataPart1.ipynb): Visualising a datset with matplotlib
+
+
+
 ## Notebook Assignments
 
 Various Completed Notebook Assignments from on-line courses
