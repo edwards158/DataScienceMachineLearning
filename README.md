@@ -1,6 +1,6 @@
 # Machine Learning and Data Science
 
-This repository contains some of my work in the fields of Machine Learning and Data Science.
+This repository contains some of my work in the fields of Machine Learning and Data Science over the past couple of years.
 
 The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  The work was done in python utilising numpy, pandas and scikit-learn.  For most of these notebooks I have used the following sources as my starting point:
 
