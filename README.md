@@ -38,7 +38,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [Feature Engineering part1](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeatureEngineeringCleaning.ipynb): Feature Engineering a datset - cleaning and transforming
 * [Feature Transformation with PCA](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeatureTransformation.ipynb): Investigating and applying PCA to ML pipeline
 
-* [Facial Recognition] (https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Facial%20Recognition.ipynb): Using ML pipelines with PCA, LDA and Logistic Regression
+* [Facial Recognition](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Facial%20Recognition.ipynb): Using ML pipelines with PCA, LDA and Logistic Regression
 
 
 ## Notebook Assignments
