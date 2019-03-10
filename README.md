@@ -27,7 +27,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [EDA and XGB Boost](https://github.com/riched158/Kaggle/blob/master/P1/PortSeguro.ipynb): Exploratory Data Analysis and Gradient Boosting on Kaggle Dataset entry
 * [Affinity Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/AffinityAnalysis.ipynb): Utilise Affinity analysis on the MovieLens 100k dataset.
 * [Decision Trees](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/DTs_and_Feature_Engineeering.ipynb): Predicting NBA winners with Decision Tree based methods.
-* [Internet Advertisement Detection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeaturesAndTransformers2.ipynb): Predicting adverts on on internet using Decision Trees
+* [Internet Advertisement Detection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeaturesAndTransformers2.ipynb): Predicting internet advertising with Decision Trees
 * [KNN](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/KNN.ipynb): K-Nearest Neighbours investigation of dataset with SciKit Learn 
 * [XGBoost](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
 * [Bagging](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
