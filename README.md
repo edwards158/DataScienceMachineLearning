@@ -41,7 +41,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [Latent Semantic Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Hotel%20Reviews.ipynb): Applying Latent Semantic Analysis to hotel reviews 
 * [Data Visualisation Part1](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingDataPart1.ipynb): Plotting with matplotlib
 * [Data Visualisation Part2](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingDataPart2.ipynb): Plotting with Pandas
-
+* [Visualising Flight Data 2015](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingFlightsDataset.ipynb): Plotting flight data with pandas
 
 
 ## Notebook Assignments
