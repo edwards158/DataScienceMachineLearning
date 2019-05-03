@@ -10,7 +10,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 [Sebastian Raschka](https://sebastianraschka.com/books.html) &nbsp; 
 [Jason Brownlee](https://machinelearningmastery.com) &nbsp; 
 [Kevin Markham](https://www.youtube.com/user/dataschool) &nbsp;
-[Open Machine Learning Course](https://mlcourse.ai/) &nbsp
+[Open Data Science](https://mlcourse.ai) &nbsp;
 
 ## My Notebooks
 
