@@ -57,4 +57,5 @@ Various Completed Notebook Assignments from on-line courses
 ### Datacamp 
 * [Exploring history of Lego](https://github.com/riched158/DataCamp/blob/master/Lego.ipynb): Guided project notebook of lego dataset
 * [Dr Semmelweis](https://github.com/riched158/DataCamp/blob/master/semmelweis.ipynb): Pandas Investigation of famous doctor
-* [Author gender distribution](https://github.com/riched158/DataCamp/blob/master/gender_predict.ipynb) Author Gender distribution with pandas
+* [Author gender distribution](https://github.com/riched158/DataCamp/blob/master/gender_predict.ipynb)Author Gender Distribution with pandas
+* [Traffic Mortality](https://github.com/riched158/DataCamp/blob/master/traffic.ipynb):Data cleaning, analysis, visualisationa and prediction of traffic mortality
