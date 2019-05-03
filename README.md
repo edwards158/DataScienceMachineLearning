@@ -9,9 +9,8 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 [Kaggle](https://www.kaggle.com) &nbsp; 
 [Sebastian Raschka](https://sebastianraschka.com/books.html) &nbsp; 
 [Jason Brownlee](https://machinelearningmastery.com) &nbsp; 
-[Sebastian Ruder](http://ruder.io/optimizing-gradient-descent/) &nbsp; 
-[Kevin Markham](https://www.youtube.com/user/dataschool) &nbsp; 
-
+[Kevin Markham](https://www.youtube.com/user/dataschool) &nbsp;
+[Open Machine Learning Course](https://mlcourse.ai/) &nbsp
 
 ## My Notebooks
 
