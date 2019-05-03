@@ -59,3 +59,7 @@ Various Completed Notebook Assignments from on-line courses
 * [Dr Semmelweis](https://github.com/riched158/DataCamp/blob/master/semmelweis.ipynb): Pandas Investigation of famous doctor
 * [Author Gender Distribution](https://github.com/riched158/DataCamp/blob/master/gender_predict.ipynb): Author Gender Distribution with Pandas
 * [Traffic Mortality](https://github.com/riched158/DataCamp/blob/master/traffic.ipynb): Data cleaning, analysis, visualisationa and prediction of traffic mortality
+
+### mlcourse.ai
+* [Analysing Cardio Data](https://github.com/riched158/Kaggle/blob/master/P1/CourseAiPart2.ipynb): Cleaning, visualisation and data analysis of health data 
+
