@@ -34,7 +34,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on kaggle ELO dataset 
 * [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture Engineering and prediction on kaggle ELO dataset 
 * [Explaining Decision Trees](https://github.com/riched158/Kaggle/blob/master/P1/Decision_Trees_Tutorial.ipynb): My explanation of Decision Trees 
-* [Correlation Feature Selection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Correlation_Based_Feature_Selection.ipynb): Feature selection, pieplines and custom transformers applied to credit card default dataset 
+* [Correlation Feature Selection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Correlation_Based_Feature_Selection.ipynb): Feature selection, pieplines and custom transformers 
 * [Feature Engineering part1](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeatureEngineeringCleaning.ipynb): Feature Engineering a datset - cleaning and transforming
 * [Feature Transformation with PCA](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeatureTransformation.ipynb): Investigating and applying PCA to ML pipeline
 * [Facial Recognition](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Facial%20Recognition.ipynb): Using ML pipelines with PCA, LDA and Logistic Regression
