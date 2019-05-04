@@ -6,11 +6,10 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 
 [Udacity](https://eu.udacity.com/) &nbsp; 
 [Coursera](https://www.coursera.org) &nbsp; 
-[Kaggle](https://www.kaggle.com) &nbsp; 
+[Kaggle](https://www.kaggle.com) &nbsp;
+[DataCamp](https://www.datacamp.com/) &nbsp;
 [Sebastian Raschka](https://sebastianraschka.com/books.html) &nbsp; 
 [Jason Brownlee](https://machinelearningmastery.com) &nbsp; 
-[Kevin Markham](https://www.youtube.com/user/dataschool) &nbsp;
-[DataCamp](https://www.datacamp.com/) &nbsp;
 [Open Data Science](https://mlcourse.ai) &nbsp;
 
 ## My Notebooks
