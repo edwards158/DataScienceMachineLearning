@@ -60,6 +60,9 @@ Various Completed Notebook Assignments from on-line courses
 * [Traffic Mortality](https://github.com/riched158/DataCamp/blob/master/traffic.ipynb): Data cleaning, analysis, visualisationa and prediction of traffic mortality
 * [Song Classification](https://github.com/riched158/DataCamp/blob/master/song_genre_classifcation.ipynb): PCA, Classification, sklearn and Pandas
 * [Credit Card Classification](https://github.com/riched158/DataCamp/blob/master/credit_card_approvals.ipynb): Cleaning, Logisic Regression, sklearn and Pandas
+* [Nobel Prize Analysis](https://github.com/riched158/DataCamp/blob/master/nobel_prize_history.ipynb): Analysis, Seaborn, sklearn and Pandas
+
+https://github.com/riched158/DataCamp/blob/master/nobel_prize_history.ipynb
 
 ### mlcourse.ai
 * [Analysing Cardio Data](https://github.com/riched158/Kaggle/blob/master/P1/CourseAiPart2.ipynb): Cleaning, visualisation and data analysis of health data 
