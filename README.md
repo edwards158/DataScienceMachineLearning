@@ -45,7 +45,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 
 ## Notebook Assignments
 
-Various Completed Notebook Assignments from on-line courses
+Various completed notebook assignments and projects from on-line courses utilising pandas and sklearn.    
 
 ### Coursera University of Washington
 * [Gradient Descent](https://github.com/riched158/ML-Regression/blob/master/week-2-multiple-regression-assign-2.ipynb): Assignment on Gradient Descent.
@@ -53,11 +53,11 @@ Various Completed Notebook Assignments from on-line courses
 * [Ridge and Lasso Regression](https://github.com/riched158/ML-Regression/blob/master/Overfitting_Ridge_Lasso.ipynb): Assignment on Ridge and Lasso Regression.
 * [Lasso Regularisation](https://github.com/riched158/ML-Regression/blob/master/week-5-lasso-assign-2.ipynb): Assignment on Lasso.
 
-### Datacamp - projects utilising pandas and sklearn
+### Datacamp
 * [Exploring history of Lego](https://github.com/riched158/DataCamp/blob/master/Lego.ipynb): Guided project notebook of lego dataset
 * [Dr Semmelweis](https://github.com/riched158/DataCamp/blob/master/semmelweis.ipynb): Pandas Investigation of famous doctor
 * [Author Gender Distribution](https://github.com/riched158/DataCamp/blob/master/gender_predict.ipynb): Author Gender Distribution with Pandas
-* [Traffic Mortality](https://github.com/riched158/DataCamp/blob/master/traffic.ipynb): Data cleaning, analysis, visualisationa and prediction of traffic mortality
+* [Traffic Mortality](https://github.com/riched158/DataCamp/blob/master/traffic.ipynb): Data cleaning, analysis, visualisation and prediction of traffic mortality
 * [Song Classification](https://github.com/riched158/DataCamp/blob/master/song_genre_classifcation.ipynb): PCA, Classification, sklearn and Pandas
 * [Credit Card Classification](https://github.com/riched158/DataCamp/blob/master/credit_card_approvals.ipynb): Cleaning, Logisic Regression, sklearn and Pandas
 * [Nobel Prize Analysis](https://github.com/riched158/DataCamp/blob/master/nobel_prize_history.ipynb): Analysis, Seaborn, sklearn and Pandas
