@@ -54,7 +54,7 @@ Various completed notebook assignments and projects from on-line courses utilisi
 * [Lasso Regularisation](https://github.com/riched158/ML-Regression/blob/master/week-5-lasso-assign-2.ipynb): Assignment on Lasso.
 
 ### Datacamp
-* [Dr Semmelweis](https://github.com/riched158/DataCamp/blob/master/semmelweis.ipynb): Pandas Investigation of famous doctor
+* [Disease Analysis](https://github.com/riched158/DataCamp/blob/master/semmelweis.ipynb): Analysis and Visualisation of the work of a medical pioneer
 * [Author Gender Distribution](https://github.com/riched158/DataCamp/blob/master/gender_predict.ipynb): Author Gender Distribution with Pandas
 * [Traffic Mortality](https://github.com/riched158/DataCamp/blob/master/traffic.ipynb): Data cleaning, analysis, visualisation and prediction of traffic mortality
 * [Song Classification](https://github.com/riched158/DataCamp/blob/master/song_genre_classifcation.ipynb): PCA, Classification, sklearn and Pandas
