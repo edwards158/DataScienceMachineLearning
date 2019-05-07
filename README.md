@@ -64,7 +64,7 @@ Various completed notebook assignments and projects from on-line courses utilisi
 * [Credit Card Classification](https://github.com/riched158/DataCamp/blob/master/credit_card_approvals.ipynb): Cleaning, Logisic Regression
 * [Nobel Prize Analysis](https://github.com/riched158/DataCamp/blob/master/nobel_prize_history.ipynb): Analysis and visualisation with Seaborn
 * [Movie Similarity](https://github.com/riched158/DataCamp/blob/master/movie_similarity.ipynb): NLP and Kmeans clustering
-
+* [Exploring Cryptocurrencies](https://github.com/riched158/DataCamp/blob/master/bitcoin.ipynb): Exploring the bitcoin market
 
 ### mlcourse.ai
 * [Analysing Cardio Data](https://github.com/riched158/Kaggle/blob/master/P1/CourseAiPart2.ipynb): Cleaning, visualisation and data analysis of health data 
