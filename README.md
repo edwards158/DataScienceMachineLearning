@@ -2,7 +2,7 @@
 
 This repository contains some of my work in the fields of Machine Learning and Data Science over the past couple of years.
 
-The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  The work was done in python utilising numpy, pandas and scikit-learn.  For most of these notebooks I have used the following sources as my starting point:
+The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  The work was done in python utilising numpy, pandas and scikit-learn.  Some references are:
 
 [Udacity](https://eu.udacity.com/) &nbsp; 
 [Coursera](https://www.coursera.org) &nbsp; 
@@ -14,7 +14,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 
 ## My Notebooks
 
-* [Regression Models in Pipeline](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/RegressionModels.ipynb): Evaluating various machine learning algorithms using pipelines on a dataset
+* [Regression Models in Pipeline](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/RegressionModels.ipynb): Evaluating various machine learning algorithms with pipelines on a dataset
 * [Enron Fraud Investigation](https://nbviewer.jupyter.org/github/riched158/Data-Analyst-Udacity-Nanodegree/blob/master/P5/poi_id.html): Investigate fraud with ML techniques
 * [Reduced Ensemble Training Time](https://github.com/riched158/Kaggle/blob/master/P1/ReducedEnsembleTrainingTime.ipynb): How Pandas dataframe optimisation can speed up training times for random forest.
 * [Donor Screening on Kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
@@ -42,7 +42,7 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [Data Visualisation Part2](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingDataPart2.ipynb): Plotting with Pandas
 * [Visualising Flight Data 2015](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingFlightsDataset.ipynb): Plotting flight data with pandas
 * [Seaborn Visualisation](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/SimpsonsParadoxSeaborn.ipynb): Plotting Diamond dataset with seaborn
-* [Fraud Detection](https://github.com/riched158/DataCamp/blob/master/Fraud_Detection_v2.ipynb): Supervised and Unsupervised fraud detecion techniques with unbalanced datasets
+* [Fraud Detection](https://github.com/riched158/DataCamp/blob/master/Fraud_Detection_v2.ipynb): Supervised and Unsupervised fraud detection techniques with unbalanced datasets
 
 ## Notebook Assignments
 
