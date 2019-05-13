@@ -43,6 +43,8 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [Visualising Flight Data 2015](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingFlightsDataset.ipynb): Plotting flight data with pandas
 * [Seaborn Visualisation](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/SimpsonsParadoxSeaborn.ipynb): Plotting Diamond dataset with seaborn
 * [Fraud Detection](https://github.com/riched158/DataCamp/blob/master/Fraud_Detection_v2.ipynb): Supervised and Unsupervised fraud detection techniques with unbalanced datasets
+* [Unsupervised Learning](https://github.com/riched158/DataCamp/blob/master/UnsupervisedLearning.ipynb): Exercises in unsupervised learning, PCA and NMF dimension reduction
+
 
 ## Notebook Assignments
 
