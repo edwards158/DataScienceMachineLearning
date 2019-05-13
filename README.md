@@ -26,11 +26,12 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture Engineering and prediction on kaggle ELO dataset 
 
 ### Machine Learning and Data Science
-* [Regression Models in Pipeline](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/RegressionModels.ipynb): Evaluating various machine learning algorithms with pipelines on a dataset
+* [Affinity Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/AffinityAnalysis.ipynb): Utilise Affinity analysis on the MovieLens 100k dataset.
+* [Regression Models in Pipeline] (https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/RegressionModels.ipynb): Evaluating various machine learning algorithms with pipelines on a dataset
 * [Enron Fraud Investigation](https://nbviewer.jupyter.org/github/riched158/Data-Analyst-Udacity-Nanodegree/blob/master/P5/poi_id.html): Investigate fraud with ML techniques
 * [Reduced Ensemble Training Time](https://github.com/riched158/Kaggle/blob/master/P1/ReducedEnsembleTrainingTime.ipynb): How Pandas dataframe optimisation can speed up training times for random forest.
 * [SKLearn Model Comparison](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Binary%20Classification.ipynb): Trying different models on a binary classification problem
-* [Affinity Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/AffinityAnalysis.ipynb): Utilise Affinity analysis on the MovieLens 100k dataset.
+
 * [Decision Trees](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/DTs_and_Feature_Engineeering.ipynb): Predicting NBA winners with Decision Tree based methods.
 * [Internet Advertisement Detection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeaturesAndTransformers2.ipynb): Predicting internet advertising with Decision Trees
 * [KNN](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/KNN.ipynb): K-Nearest Neighbours investigation of dataset with SciKit Learn 
