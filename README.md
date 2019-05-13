@@ -32,7 +32,6 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 * [Enron Fraud Investigation](https://nbviewer.jupyter.org/github/riched158/Data-Analyst-Udacity-Nanodegree/blob/master/P5/poi_id.html): Investigate fraud with ML techniques
 * [Reduced Ensemble Training Time](https://github.com/riched158/Kaggle/blob/master/P1/ReducedEnsembleTrainingTime.ipynb): How Pandas dataframe optimisation can speed up training times for random forest.
 * [SKLearn Model Comparison](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Binary%20Classification.ipynb): Trying different models on a binary classification problem
-
 * [Decision Trees](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/DTs_and_Feature_Engineeering.ipynb): Predicting NBA winners with Decision Tree based methods.
 * [Internet Advertisement Detection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeaturesAndTransformers2.ipynb): Predicting internet advertising with Decision Trees
 * [KNN](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/KNN.ipynb): K-Nearest Neighbours investigation of dataset with SciKit Learn 
