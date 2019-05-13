@@ -1,8 +1,6 @@
 # Machine Learning and Data Science
 
-This repository contains some of my work in the fields of Machine Learning and Data Science over the past couple of years.
-
-The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  The work was done in python utilising numpy, pandas and scikit-learn.  Some references are:
+This repository contains some of my work in the fields of Machine Learning and Data Science.  The notebooks are experiments, courses, kaggle entries, hacks and code ideas from various sources.  The work was done in python utilising numpy, pandas and scikit-learn.  Some references are:
 
 [Udacity](https://eu.udacity.com/) &nbsp; 
 [Coursera](https://www.coursera.org) &nbsp; 
