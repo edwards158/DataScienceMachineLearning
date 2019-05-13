@@ -14,38 +14,44 @@ The notebooks are experiments, courses, kaggle entries, hacks and code ideas fro
 
 ## My Notebooks
 
-### Kaggle
-* [Regression Models in Pipeline](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/RegressionModels.ipynb): Evaluating various machine learning algorithms with pipelines on a dataset
-* [Enron Fraud Investigation](https://nbviewer.jupyter.org/github/riched158/Data-Analyst-Udacity-Nanodegree/blob/master/P5/poi_id.html): Investigate fraud with ML techniques
-* [Reduced Ensemble Training Time](https://github.com/riched158/Kaggle/blob/master/P1/ReducedEnsembleTrainingTime.ipynb): How Pandas dataframe optimisation can speed up training times for random forest.
+### Kaggle Data Science and Machine Learning
+
 * [Donor Screening on Kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
 * [Advanced Regression Techniques](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Ames_Housing1.ipynb): Exploratory Data Analysis and Regression techniques to predict houseprices.
-* [SKLearn Model Comparison](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Binary%20Classification.ipynb): Trying different models on a binary classification problem
 * [Transforming Features](https://github.com/riched158/Machine-Learning-Shallow/blob/master/FeaturesAndTransformers.ipynb): Transforming data with SciKit Learn.
 * [Titanic Prediction](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/TitanicPipelines.ipynb): Using Transforms and Ensemble methods to predict Titanic survival
 * [EDA on Titanic Dataset](https://github.com/riched158/Kaggle/blob/master/P1/Titanic4.ipynb): Exploratory Data Analysis on the Titanic Kaggle Dataset
 * [EDA and XGB Boost](https://github.com/riched158/Kaggle/blob/master/P1/PortSeguro.ipynb): Exploratory Data Analysis and Gradient Boosting on Kaggle Dataset entry
+* [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on kaggle ELO dataset 
+* [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture Engineering and prediction on kaggle ELO dataset 
+
+### Machine Learning and Data Science
+* [Regression Models in Pipeline](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/RegressionModels.ipynb): Evaluating various machine learning algorithms with pipelines on a dataset
+* [Enron Fraud Investigation](https://nbviewer.jupyter.org/github/riched158/Data-Analyst-Udacity-Nanodegree/blob/master/P5/poi_id.html): Investigate fraud with ML techniques
+* [Reduced Ensemble Training Time](https://github.com/riched158/Kaggle/blob/master/P1/ReducedEnsembleTrainingTime.ipynb): How Pandas dataframe optimisation can speed up training times for random forest.
+* [SKLearn Model Comparison](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Binary%20Classification.ipynb): Trying different models on a binary classification problem
 * [Affinity Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/AffinityAnalysis.ipynb): Utilise Affinity analysis on the MovieLens 100k dataset.
 * [Decision Trees](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/DTs_and_Feature_Engineeering.ipynb): Predicting NBA winners with Decision Tree based methods.
 * [Internet Advertisement Detection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeaturesAndTransformers2.ipynb): Predicting internet advertising with Decision Trees
 * [KNN](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/KNN.ipynb): K-Nearest Neighbours investigation of dataset with SciKit Learn 
 * [XGBoost](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/XGBoostTutorial.ipynb): Using Gradient Boosting on Facebook Dataset
-* [Bagging](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor 
-* [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on kaggle ELO dataset 
-* [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture Engineering and prediction on kaggle ELO dataset 
-* [Explaining Decision Trees](https://github.com/riched158/Kaggle/blob/master/P1/Decision_Trees_Tutorial.ipynb): My explanation of Decision Trees 
+* [Bagging](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Bagging%20Regressor.ipynb): Simple experiment with bagging regressor
+* [Explaining Decision Trees](https://github.com/riched158/Kaggle/blob/master/P1/Decision_Trees_Tutorial.ipynb): My explanation of Decision Trees
+* [Latent Semantic Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Hotel%20Reviews.ipynb): Applying Latent Semantic Analysis to hotel reviews 
+
+* [Fraud Detection](https://github.com/riched158/DataCamp/blob/master/Fraud_Detection_v2.ipynb): Supervised and Unsupervised fraud detection techniques with unbalanced datasets
+
+### Feature Transformation
 * [Correlation Feature Selection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Correlation_Based_Feature_Selection.ipynb): Feature selection, pieplines and custom transformers 
 * [Feature Engineering part1](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeatureEngineeringCleaning.ipynb): Feature Engineering a datset - cleaning and transforming
 * [Feature Transformation with PCA](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeatureTransformation.ipynb): Investigating and applying PCA to ML pipeline
 * [Facial Recognition](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Facial%20Recognition.ipynb): Using ML pipelines with PCA, LDA and Logistic Regression
-* [Latent Semantic Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Hotel%20Reviews.ipynb): Applying Latent Semantic Analysis to hotel reviews 
+
+### Visualisation
 * [Data Visualisation Part1](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingDataPart1.ipynb): Plotting with matplotlib
 * [Data Visualisation Part2](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingDataPart2.ipynb): Plotting with Pandas
 * [Visualising Flight Data 2015](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingFlightsDataset.ipynb): Plotting flight data with pandas
 * [Seaborn Visualisation](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/SimpsonsParadoxSeaborn.ipynb): Plotting Diamond dataset with seaborn
-* [Fraud Detection](https://github.com/riched158/DataCamp/blob/master/Fraud_Detection_v2.ipynb): Supervised and Unsupervised fraud detection techniques with unbalanced datasets
-* [Unsupervised Learning](https://github.com/riched158/DataCamp/blob/master/UnsupervisedLearning.ipynb): Exercises in unsupervised learning, PCA and NMF dimension reduction
-
 
 ## Notebook Assignments
 
