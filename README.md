@@ -37,6 +37,7 @@ This repository contains some of my work in the fields of Machine Learning and D
 * [Explaining Decision Trees](https://github.com/riched158/Kaggle/blob/master/P1/Decision_Trees_Tutorial.ipynb): My explanation of Decision Trees
 * [Latent Semantic Analysis](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Hotel%20Reviews.ipynb): Applying Latent Semantic Analysis to hotel reviews 
 * [Fraud Detection](https://github.com/riched158/DataCamp/blob/master/Fraud_Detection_v2.ipynb): Supervised and Unsupervised fraud detection techniques with unbalanced datasets
+* [Unsupervised Machine Learning](https://github.com/riched158/DataCamp/blob/master/UnsupervisedLearning.ipynb): Exercises on clustering, PCA and NMF
 
 ### Feature Transformation
 
