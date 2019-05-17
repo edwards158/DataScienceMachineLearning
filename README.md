@@ -21,7 +21,9 @@ This repository contains some of my work in the fields of Machine Learning and D
 * [EDA on Titanic Dataset](https://github.com/riched158/Kaggle/blob/master/P1/Titanic4.ipynb): Exploratory Data Analysis on the Titanic Kaggle Dataset
 * [EDA and XGB Boost](https://github.com/riched158/Kaggle/blob/master/P1/PortSeguro.ipynb): Exploratory Data Analysis and Gradient Boosting on Kaggle Dataset entry
 * [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on kaggle ELO dataset 
-* [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture Engineering and prediction on kaggle ELO dataset 
+* [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture engineering and prediction on kaggle ELO dataset 
+* [Credit Card Fraud](https://github.com/riched158/Kaggle/blob/master/P1/CreditCard1.ipynb): Predicting credit card fraud from Kaggle
+
 
 ### Machine Learning and Data Science
 * [Internet Advertisement Detection](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FeaturesAndTransformers2.ipynb): Predicting internet advertising with Decision Trees
