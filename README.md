@@ -41,6 +41,7 @@ This repository contains some of my work in the fields of Machine Learning and D
 * [Fraud Detection](https://github.com/riched158/DataCamp/blob/master/Fraud_Detection_v2.ipynb): Supervised and Unsupervised fraud detection techniques with unbalanced datasets
 * [Unsupervised Machine Learning](https://github.com/riched158/DataCamp/blob/master/UnsupervisedLearning.ipynb): Exercises on clustering, PCA and NMF
 * [Olympic Medals](https://github.com/riched158/DataCamp/blob/master/Olympic_Medals.ipynb): Exploring medal winners using manipulation of pandas dataframes
+* [Water Pumps](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/water2.ipynb): Multiclass classification of functional water pumps with XGBoost tuning 
 
 
 ### Feature Transformation
