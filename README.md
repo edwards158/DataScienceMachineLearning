@@ -16,12 +16,12 @@ This repository contains some of my work in the fields of Machine Learning and D
 
 * [Donor Screening on Kaggle](https://github.com/riched158/Kaggle/blob/master/P1/donors1.ipynb): Kaggle entry on Donors Screening
 * [Advanced Regression Techniques](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/Ames_Housing1.ipynb): Exploratory Data Analysis and Regression techniques to predict houseprices.
-* [Pandas Dataframe Optimisation](https://github.com/riched158/Kaggle/blob/master/P1/DataFrameOptimisation.ipynb): Reudcing memory footprint of a Pandas Dataframe
+* [Pandas Dataframe Optimisation](https://github.com/riched158/Kaggle/blob/master/P1/DataFrameOptimisation.ipynb): Reducing memory footprint of a Pandas Dataframe 
 * [Titanic Prediction](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/TitanicPipelines.ipynb): Using Transforms and Ensemble methods to predict Titanic survival
 * [EDA on Titanic Dataset](https://github.com/riched158/Kaggle/blob/master/P1/Titanic4.ipynb): Exploratory Data Analysis on the Titanic Kaggle Dataset
 * [EDA and XGB Boost](https://github.com/riched158/Kaggle/blob/master/P1/PortSeguro.ipynb): Exploratory Data Analysis and Gradient Boosting on Kaggle Dataset entry
-* [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on kaggle ELO dataset 
-* [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture engineering and prediction on kaggle ELO dataset 
+* [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on Kaggle ELO dataset 
+* [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture engineering and prediction on Kaggle ELO dataset 
 * [Credit Card Fraud](https://github.com/riched158/Kaggle/blob/master/P1/CreditCard1.ipynb): Predicting credit card fraud from Kaggle
 
 
