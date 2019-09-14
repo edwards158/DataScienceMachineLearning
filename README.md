@@ -23,7 +23,7 @@ This repository contains some of my work in the fields of Machine Learning and D
 * [EDA on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/EDA_ELOv1.ipynb): Playing around with seaborn and pandas on Kaggle ELO dataset 
 * [LightGBM on Kaggle Dataset](https://github.com/riched158/Kaggle/blob/master/P1/ELO_v2.ipynb): Feauture engineering and prediction on Kaggle ELO dataset 
 * [Credit Card Fraud](https://github.com/riched158/Kaggle/blob/master/P1/CreditCard1.ipynb): Predicting credit card fraud from Kaggle
-* [Fake News](https://github.com/riched158/Kaggle/blob/master/P1/CreditCard1.ipynb): Building a simple fake news classifier
+* [Fake News](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/FakeNewsClassifier.ipynb): Building a simple fake news classifier
 
 
 ### Machine Learning and Data Science
