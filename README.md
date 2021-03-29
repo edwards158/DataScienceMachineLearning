@@ -58,6 +58,50 @@ This repository contains some of my work in the fields of Machine Learning and D
 * [Visualising Flight Data 2015](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/VisualisingFlightsDataset.ipynb): Plotting flight data with pandas
 * [Seaborn Visualisation](https://github.com/riched158/DataScienceMachineLearning/blob/master/DataScienceNotebooks/SimpsonsParadoxSeaborn.ipynb): Plotting Diamond dataset with seaborn
 
+### Keras Deep Learning
+#### Deep Learning Basics
+
+* [Deep Learning Network Tutorial](https://github.com/riched158/Keras/blob/master/keras/DeepTutorial.ipynb): Exploring MLP, CNN and RNNs
+* [SciKit Learn](https://github.com/riched158/Keras/blob/master/keras/Keras3_SciKit.ipynb): Using cross validation and grid search on a simple dataset
+* [Multiclass Classification](https://github.com/riched158/Keras/blob/master/keras/Keras4_Multiclass.ipynb): Uses famous iris dataset
+* [Binary Classification](https://github.com/riched158/Keras/blob/master/keras/Keras5_Binary_Classification.ipynb): Predict binary target data
+* [Regression](https://github.com/riched158/Keras/blob/master/keras/Keras6_Regression.ipynb):  Regression of House prices and tuning of network topology
+
+#### Better Deep Learning
+* [Network Capacity](https://github.com/riched158/Keras/blob/master/keras/ModelCapacity.ipynb): Investigate impact of changing model capacity on a complex multiclass dataset
+* [Batch Size and Gradient Descent](https://github.com/riched158/Keras/blob/master/keras/BatchSizesConfig.ipynb): Investigating Batch, Stochastic and Minibatch Gradient descent
+* [Dropout](https://github.com/riched158/Keras/blob/master/keras/Keras9_DropOut1.ipynb): Investigate Dropout techniques and evaluate performance on Deep learning model 
+* [Learning Rates](https://github.com/riched158/Keras/blob/master/keras/Keras10_LearnRate.ipynb): Investigate Learning Rate techniques and evaluate performance on Deep learning model
+* [Checkpoints](https://github.com/riched158/Keras/blob/master/keras/Keras7_Checkpointing.ipynb): Use Keras API to checkpoint and save model weights
+* [Training History](https://github.com/riched158/Keras/blob/master/keras/Keras8_Plotting_History.ipynb): Use Keras API to display training and test history
+* [Early Stopping](https://github.com/riched158/Keras/blob/master/keras/EarlyStopping.ipynb): Use Keras API to employ early stopping on a dataset
+
+#### NLP
+
+* [Preparing Text Data](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP1_CleaningAndVectorizers.ipynb): Preparing and applying scikit-learn and keras vectorizers to text data  
+* [Movie Reviews](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP4_MoviePrep.ipynb): Formatting IMDB movie review data ready for analysis
+* [Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP6_Movie_Models.ipynb): Sentiment analysis on the prepared movie reviews using Bag of Words model.
+* [Model Validation](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP7_MovieValidation.ipynb): Model validation of the trained movie reviews
+* [Language Model](https://github.com/riched158/Keras/blob/master/keras_nlp/Keras_NLP11_LanguageModel.ipynb): Tring to predict text using LSTMs
+* [IMDB Sentiment Analysis](https://github.com/riched158/Keras/blob/master/keras/Keras11_CNN_IMDB.ipynb): Basic CNN and NLP on the IMDB datset 
+* [Quora Kaggle Challenge](https://github.com/riched158/Kaggle/blob/master/P1/Quora1.ipynb): First Attempt at Kaggle Quora challenge using word embedding and CNN model 
+
+
+####  CNN
+
+* [Keras Covnets](https://github.com/riched158/Keras/blob/master/keras_cnn/CovnetFlowersv2.ipynb): Using the Keras Framework tools to process images
+* [Pre-Trained Covnet](https://github.com/riched158/Keras/blob/master/keras_cnn/CovnetFlowersV4.ipynb): Using the Keras Framework tools to process images using pre-trained covnet
+* [Whale Id](https://github.com/riched158/Kaggle/blob/master/P1/Whale1.ipynb): First attempt at Kaggle Whale Id challenge
+
+####  LSTM
+
+* [Prediction](https://github.com/riched158/Keras/blob/master/keras/Keras12_RNN_Airlines.ipynb): Trying to predict airline passeneger numbers with LSTMs
+
+####  Audio
+* [Audio Classification Part1](https://github.com/riched158/Keras/blob/master/keras/UrbanSound1.ipynb): Looking at the audio classification of street sounds
+
+
+
 ## Notebook Assignments
 
 Various completed notebook assignments and projects from on-line courses utilising pandas and sklearn.    
